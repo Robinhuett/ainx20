@@ -49,6 +49,8 @@ All parts should pe printed in TPU. Also all parts can be printed without suppor
 
 Most parts are made with Fusion 360.
 
+The pod is build around micro sized fpv cams (19mm x 19mm) and the TBS Unify nano vtx.
+
 ## Authors
 
 * **Robin Tripp** - *Initial work* - [Robinhuett](https://github.com/Robinhuett)
